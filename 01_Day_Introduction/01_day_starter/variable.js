@@ -5,7 +5,7 @@ let lastName = 'Yetayeh'      // last name of a person
 let country = 'Finland'       // country
 let city = 'Helsinki'         // capital city
 let age = 100                 // age in years
-let isMarried = true
+let isMarried = true          //marriage status
 
 // Declaring variables with number values
 
