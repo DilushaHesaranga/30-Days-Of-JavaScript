@@ -1,8 +1,12 @@
-const fixedAge = 18;
-let age = prompt("Enter your age");
-  if (age>=18){
-    console.log('You are old enough to drive')
-  }
-  else{
-    console.log('You are left with',fixedAge-age,'years to drive.');
-  }
+// this is your main.js script
+
+alert('Open the browser console whenever you work on JavaScript')
+let age= prompt('Enter your age');
+function agecalculator(){
+    if (age>=10){
+        alert('You are an adult')
+    }
+    else{
+        alert('You are a child')
+    }
+}
